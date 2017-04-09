@@ -1,0 +1,2 @@
+- create slack app
+- add slack bot
